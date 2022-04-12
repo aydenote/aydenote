@@ -1,6 +1,6 @@
 ### Hi there 👋
   [![Ayden's github stats](https://github-readme-stats.vercel.app/api?username=aydenote)](https://github.com/aydenote/github-readme-stats)
-https://img.shields.io/badge/<LABEL>-<React>-<blue>
+  <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=blue"/>
 <!--
 **aydenote/aydenote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
