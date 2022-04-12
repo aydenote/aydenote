@@ -3,3 +3,4 @@
 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=React&logoColor=yellow"/>
