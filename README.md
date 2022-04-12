@@ -1,4 +1,5 @@
 ### Hi there 👋
+  [![Ayden's github stats](https://github-readme-stats.vercel.app/api?username=aydenote)](https://github.com/aydenote/github-readme-stats)
 
 <!--
 **aydenote/aydenote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
