@@ -35,12 +35,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydenote&show_icons=true&theme=스타일)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydenote&layout=compact&theme=스타일)
 
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
-</div>  
-  
-
 <!-- ### <div align="center">안녕하세요. 주식회사 위니브 대표, 제주코딩베이스캠프의 운영진 이호준입니다. 
 
 * full-stack 개발, 정보보안, 빅데이터 분석 프로젝트 경험과 관련 학위, 자격증 보유. 
