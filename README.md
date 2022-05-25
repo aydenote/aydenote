@@ -19,9 +19,7 @@
 
 </td><td valign="top" width="50%">
 
-
-
-### Backend  
+ ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
@@ -30,7 +28,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydenote&show_icons=true&theme=스타일)
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydenote&show_icons=true&theme=스타일) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydenote&layout=compact&theme=스타일)
 
 <!-- ### <div align="center">안녕하세요. 주식회사 위니브 대표, 제주코딩베이스캠프의 운영진 이호준입니다. 
