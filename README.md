@@ -27,7 +27,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
-
+</table>
+ 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aydenote&show_icons=true&theme=스타일) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydenote&layout=compact&theme=스타일)
