@@ -25,8 +25,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aydenote&tag=React)](https://velog.io/@aydenote)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aydenote&tag=JavaScript)](https://velog.io/@aydenote)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aydenote&tag=React)](https://velog.io/@aydenote/reactMarket)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aydenote&tag=JavaScript)](https://velog.io/@aydenote/60refactoring)
   
 </div>
   
